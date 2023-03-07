@@ -30,3 +30,9 @@ Findings:
 	Sales amounts contain negative figures.
 	Empty zone
 	Inconsistent currency
+
+PERFORM ETL
+	Load sales dataset between POWERBI & MySQL
+	Load all 5 tables
+	Data modelling
+	Transform data > data cleaning > exclude zone under blank, exclude sales amount <= 0, convert all currency into INR by adding new conditional column ‘norm_sales_amount’
