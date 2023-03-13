@@ -9,3 +9,6 @@
 
 #Sales insight.pbix
 * Perform data modelling, generating dashboard in PowerBi Desktop 
+
+#Link to Tableau dashboard
+* https://public.tableau.com/app/profile/wengtat/viz/SalesInsights_16787239489750/Dashboard1?publish=yes
